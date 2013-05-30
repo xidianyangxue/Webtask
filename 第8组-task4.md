@@ -1,42 +1,4 @@
-
-高校交友平台 
-   应用建模
-
-
-
-
-                            
-
-
-第八组
- 
-
-目录
-1 概要  2
-1.1目的	2
-1.2 主要内容	2
-2 需求分析	2
-2.1主要功能	2
-3 Web应用建模	3
-3.1 系统参与者及用例	3
-3.2 系统用例图	4
-3.3 页面类图	5
-3.4系统类图	6
-3.5数据库类图	7
-3.6 系统时序图	7
-3.7系统活动图	11
-4 结束语	12
-
-
-
-
-
-
-
-
-
-
-
+高校交友平台应用建模
 1 概要
 1.1目的
       西安电子科技大学作为一间历史悠久，学风浓厚的大学，学生都忙于学习之中，对课外活动参与热情度低，社交圈子小，缺乏锻炼社交能力的机会。学生与老师之间的交流也少，通知、课件等的信息都无法直接传递。同时，西安虽然高校林立，但是各所高校之间间隔较大，日常交流甚少，不利于西电与各兄弟院校的友好合作和交流。建立高校交友平台可以增加老师与学生，不同院系、不同高校学生之间的交流，促进资源共享。
@@ -143,7 +105,7 @@ updateInfo()更新信息
 setpriority()设置权限
 change()更改站内内容
 3.5数据库类图
- 
+![tu](http://www.baidupcs.com/thumbnail/b3f7e74ad82f0077864f51680109bcdf?fid=655247319-250528-1541738037&time=1369924238&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-%2F3bUVsm5QFaJ%2BVJEL%2FDFiamtmoo%3D&expires=8h&size=c850_u580&quality=100 "数据类图")
 数据库用来存储网站上的信息，主要方法包括：
 addData()添加数据
 deleteData()删除数据
@@ -152,32 +114,32 @@ getData()取出数据
 insertData()插入数据
 3.6 系统时序图
 1.用户发布新鲜事
- 
+![a](http://www.baidupcs.com/thumbnail/5c9a73be1c211976af015be8b573dff8?fid=655247319-250528-2713466254&time=1369924333&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-HsiZJjZzgM%2F1GloxC1b0wsbuzNw%3D&expires=8h&size=c850_u580&quality=100)
 由此可知，用户登录之后发布新鲜事过程，可以确认发布或者取消发布，最后数据存放于数据库中。
 2.用户好友操作
- 
+![f](http://www.baidupcs.com/thumbnail/6ae365cc531ec3b5db606cde585db712?fid=655247319-250528-2531306739&time=1369924333&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-HUOlp%2B0w2QLinPZdMqMUJ%2BZzAm4%3D&expires=8h&size=c850_u580&quality=100)
 用户进入好友管理页面后，可以进行添加、删除、查找和取出好友信息的操作。
 3.用户上传资源
- 
+![d](http://www.baidupcs.com/thumbnail/c39ae30d0ebd24a6599ecca1a6771b0a?fid=655247319-250528-808256973&time=1369924333&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-uN90Y5F8Fb9H6vuhMZSXT215tOs%3D&expires=8h&size=c850_u580&quality=100)
 用户进入上传资源页面，可以选择上传资源，或取消，最终更改的数据保存在数据库内。
 4.用户下载资源
- 
+![b](http://www.baidupcs.com/thumbnail/1840ecf3396e6ff0e0109eb6d6fd2208?fid=655247319-250528-3695943629&time=1369924333&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-fT2RtFzPTs0W3w70OatLJ%2FVHQ18%3D&expires=8h&size=c850_u580&quality=100)
 用户进入下载资源界面后，可以从展示的资源列表中，选择下载资源。
 5.用户更改个人信息
- 
+![a](http://www.baidupcs.com/thumbnail/9ad21980cb4a4e0231c1e15ee7d8768c?fid=655247319-250528-4056378360&time=1369924333&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-QacSxWKoPj%2BJrK5nDeeDmimQ%2BZ0%3D&expires=8h&size=c850_u580&quality=100)
 用户更改个人信息，最终结果存放在数据库内
 6.管理员管理资源
- 
+![e](http://www.baidupcs.com/thumbnail/226b7dd261198563ff2f2ad7c7582914?fid=655247319-250528-2679450106&time=1369924333&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-PhbasgBNO7Df%2BteP2JhyN070lLE%3D&expires=8h&size=c850_u580&quality=100)
 管理员可以删除、上床或更改资源类，修改结果存放在数据库内。
 7.管理员设置权限
- 
+![c](http://www.baidupcs.com/thumbnail/48719d44db288092dcdcf0a1ffd08b0d?fid=655247319-250528-2555583149&time=1369924333&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-7xS13VUxkTC%2FbPtug5MpzQRPXX0%3D&expires=8h&size=c850_u580&quality=100)
 管理员设置管理员权限，更改用户信息或者管理员信息。
 3.7系统活动图
 1）学生用户活动图
- 
+![zz](http://www.baidupcs.com/thumbnail/800cd6bf9a78ed2f06d071ab465a13b6?fid=655247319-250528-434623384&time=1369924662&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-vgcgLpqm5KNywPcL56je30HjbuQ%3D&expires=8h&size=c850_u580&quality=100)
 主要展示了用户登录个人主页进行好友操作，修改个人信息或发布新鲜事的活动。
 2）管理员活动图
- 
+![l](http://www.baidupcs.com/thumbnail/800cd6bf9a78ed2f06d071ab465a13b6?fid=655247319-250528-434623384&time=1369924662&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-vgcgLpqm5KNywPcL56je30HjbuQ%3D&expires=8h&size=c850_u580&quality=100)
 4 结束语
 通过对高校交友平台的建模，确定了系统的对象实体以及其职责，确定了系统的用例和具体操作。通过建立用例的活动图确定了活动顺序。为我们平台的建立提供了方便，帮助我们按照实际情况或需要的样式对系统进行可视化，提供一种详细说明系统的结果或行为的方法，给出一个指导系统构造的模板。选择要创建什么模型，对如何动手解决问题和如何形成解决方案有着意义深远的影响，每一种模型可以在不同的精度级别上表示最好的模型，是与现实相联系的单个模型是不充分的。对每个重要的系统最好用一组几乎独立的模型去处理。
 
