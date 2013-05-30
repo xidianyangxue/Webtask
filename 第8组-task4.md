@@ -1,7 +1,6 @@
-===============
+
 高校交友平台 
    应用建模
-===============
 
 
 
@@ -84,8 +83,8 @@
 3.2 系统用例图
 ![picture](http://ww2.sinaimg.cn/mw1024/a13a2bc1tw1e56ogiicy2j20ey0g6wfh.jpg "用例图1")
  
-3.3 页面类图
- 
+3.3 页面类图 
+![类图](http://ww4.sinaimg.cn/mw1024/a13a2bc1tw1e56oyw5wnsj20fg0bfmyb.jpg "页面类图")
 页面类主要分为以下几类：
 1）	登录与浏览页面用于用户登陆时操作界面，主要方法有：
 browse()用于展示页面内容
@@ -121,7 +120,7 @@ Input()输入信息
 Send()发送信息
 Close()关闭对话框
 3.4系统类图
- 
+![类图2](http://www.baidupcs.com/thumbnail/63b43122ded2ceced1fd004bf046e55d?fid=655247319-250528-2808626060&time=1369924129&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-dnxCMXY8xZudv1JWclca2hQ%2BAtI%3D&expires=8h&size=c850_u580&quality=100 "系统类图")
 类图说明：
 1）	用户类主要方法：
 login()用于用户登录
