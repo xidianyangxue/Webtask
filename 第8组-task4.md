@@ -82,7 +82,7 @@
            管理资源
            后台维护
 3.2 系统用例图
-![1]:(http://pan.baidu.com/disk/home?#category/type=2/usercase.jpg)
+![picture](http://ww2.sinaimg.cn/mw1024/a13a2bc1tw1e56ogiicy2j20ey0g6wfh.jpg "用例图1")
  
 3.3 页面类图
  
