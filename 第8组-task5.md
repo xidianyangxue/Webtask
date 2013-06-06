@@ -35,14 +35,14 @@ MVC的目的是增加代码的重用率，减少数据表达、数据描述和�
 
 MVC总体设计图如图2所示：
   
- ![a](http://www.baidupcs.com/thumbnail/5414ba75cf05ce771ea3011296b216fd?fid=655247319-250528-2103055947&time=1370102446&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-NH8xWN3sPSQ8%2B%2FyqoNWylPt4meE%3D&expires=8h&size=c850_u580&quality=100 "图2")
+ ![a](http://www.baidupcs.com/thumbnail/5414ba75cf05ce771ea3011296b216fd?fid=655247319-250528-2103055947&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-55NYLLgBl%2B8LJrEOLSFTUkJqExQ%3D&rt=sh&expires=8h&size=c850_u580&quality=100 "图2")
  
   
 
 
 高校交友平台基本架构图如图3所示：
 
- ![c](http://www.baidupcs.com/thumbnail/5eb907324440abd6641796531bc8930b?fid=655247319-250528-700198898&time=1370102446&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-77UJbA%2B0kPT8CBytEvdyjCnX8aM%3D&expires=8h&size=c850_u580&quality=100 "图3")
+ ![c](http://www.baidupcs.com/thumbnail/5eb907324440abd6641796531bc8930b?fid=655247319-250528-700198898&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-XYRIUu9BVGed%2BzQWstFxwe14QnY%3D&rt=sh&expires=8h&size=c850_u580&quality=100"图3")
  
              
 
