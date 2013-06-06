@@ -19,7 +19,7 @@ Web应用架构反应了定义模块或组件以及它们之间的交互。它�
 
 MVC是Model-View-Controller（模型－视图－控制器）的缩写，它把一个应用的处理流程分成模型层、视图层和控制层，控制器（Controler）控制器接受用户的输入并调用模型和视图去完成用户的需求 。视图（View）用户看到并与之交互的界面 模型（Model）企业数据和业务规则，如图1所示。
  
- ![b](http://www.baidupcs.com/thumbnail/1a1c3ba6107405b8de72a9be16d52a7f?fid=655247319-250528-2066827459&time=1370102446&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-FrzvlNpCMNRYdGnd4Xu%2BZmkcBSw%3D&expires=8h&size=c850_u580&quality=100 "图1 MVC模式三层结构图")
+ ![b](http://www.baidupcs.com/thumbnail/1a1c3ba6107405b8de72a9be16d52a7f?fid=655247319-250528-2066827459&time=1370510054&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-1ykemrQxEeJAwU56OdfaFOUldsU%3D&rt=sh&expires=8h&size=c850_u580&quality=100 "图1 MVC模式三层结构图")
  
 模型层(也称业务层)用于处理程序逻辑。它的任务是管理应用程序域的行为和数据，响应来自控制层的状态指令，把原有数据按照业务逻辑转换成指定意义的数据提供给视图层显示。
 
