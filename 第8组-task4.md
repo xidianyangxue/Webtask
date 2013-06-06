@@ -96,8 +96,7 @@
 
 3.2 系统用例图
 
-![picture][1]
-[1]:(http://ww2.sinaimg.cn/mw1024/a13a2bc1tw1e56ogiicy2j20ey0g6wfh.jpg "用例图1")
+![picture](http://ww2.sinaimg.cn/mw1024/a13a2bc1tw1e56ogiicy2j20ey0g6wfh.jpg "用例图1")
  
 
 
@@ -223,8 +222,8 @@ change()更改站内内容
 3.5数据库类图
 
 
-![tu][2]
-[2]:(http://www.baidupcs.com/thumbnail/b3f7e74ad82f0077864f51680109bcdf?fid=655247319-250528-1541738037&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-6Js%2FlRyx2ETreNyiT75Z8siZxCw%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![tu](http://www.baidupcs.com/thumbnail/b3f7e74ad82f0077864f51680109bcdf?fid=655247319-250528-1541738037&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-6Js%2FlRyx2ETreNyiT75Z8siZxCw%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+
 数据库用来存储网站上的信息，主要方法包括：
 
 addData()添加数据
@@ -249,11 +248,13 @@ insertData()插入数据
 2.用户好友操作
 
 ![f](http://www.baidupcs.com/thumbnail/6ae365cc531ec3b5db606cde585db712?fid=655247319-250528-2531306739&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-Eqhpt2Yw%2BUDY4vPG0VQYEJUn15o%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+
 用户进入好友管理页面后，可以进行添加、删除、查找和取出好友信息的操作。
 
 3.用户上传资源
 
 ![d](http://www.baidupcs.com/thumbnail/c39ae30d0ebd24a6599ecca1a6771b0a?fid=655247319-250528-808256973&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-r8bcZL2nNuMUO8oj0MV%2BYFnmWvQ%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+
 用户进入上传资源页面，可以选择上传资源，或取消，最终更改的数据保存在数据库内。
 
 
@@ -290,11 +291,14 @@ insertData()插入数据
 1）学生用户活动图
 
 ![zz](http://www.baidupcs.com/thumbnail/800cd6bf9a78ed2f06d071ab465a13b6?fid=655247319-250528-1333769462&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-%2FKJR3KFvNOeLwYLyVnwZYM7MrBM%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+
 主要展示了用户登录个人主页进行好友操作，修改个人信息或发布新鲜事的活动。
 
 2）管理员活动图
 
 ![l](http://www.baidupcs.com/thumbnail/00108fbce197187536e0e8813fbe455d?fid=655247319-250528-897102547&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-vH7RCL6ZtNeMjxM8gH2D91oTC5w%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+
+
 **4 结束语**
 
 
