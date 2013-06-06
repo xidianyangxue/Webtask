@@ -42,7 +42,7 @@ MVC总体设计图如图2所示：
 
 高校交友平台基本架构图如图3所示：
 
- ![c](http://www.baidupcs.com/thumbnail/5eb907324440abd6641796531bc8930b?fid=655247319-250528-700198898&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-XYRIUu9BVGed%2BzQWstFxwe14QnY%3D&rt=sh&expires=8h&size=c850_u580&quality=100）
+ ![c](http://www.baidupcs.com/thumbnail/5eb907324440abd6641796531bc8930b?fid=655247319-250528-700198898&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-XYRIUu9BVGed%2BzQWstFxwe14QnY%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
              
 
 平台界面：用于显示界面信息，是用户与系统的交互，用户可以通过该界面在线聊天，发布信息，上传、下载资源。相当于MVC中的view。
@@ -55,11 +55,11 @@ MVC总体设计图如图2所示：
 
 在系统中，浏览器中呈现的是系统的视图部分，而模型和控制器则是透明的。当Web 服务器接收到客户提交的HTTP请求后，交给服务器中的控制器来处理。控制器按照请求中的信息，从系统配置中提取此信息的映射表，并把此请求映射到相应的处理模型；处理模型进行业务逻辑处理，处理完后返回状态更新的请求并将数据结果给控制器；控制器根据结果选择相应视图模板并合成视图返回给用户。程序架构如图4所示。
 
-![d](http://www.baidupcs.com/thumbnail/ba616d3afcf0e35c25b04a1bf8957935?fid=655247319-250528-239509177&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-NXEb38oUg8kEgd%2BMoNMlVpkgs6s%3D&rt=sh&expires=8h&size=c850_u580&quality=100）
+![d](http://www.baidupcs.com/thumbnail/ba616d3afcf0e35c25b04a1bf8957935?fid=655247319-250528-239509177&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-NXEb38oUg8kEgd%2BMoNMlVpkgs6s%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
 
 通过以上架构，我们对高校交友平台应用架构有了一定了解。接下来对框架进行进一步抽象，以数据为中心的架构出来，抽象化应用，关注与底层数据的管理。
 
-![e](http://www.baidupcs.com/thumbnail/7125f19997b769049e8fb4d8f05c865d?fid=655247319-250528-832732463&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-ya4vUOwjc2fpf2Xo02PcxC9r99M%3D&rt=sh&expires=8h&size=c850_u580&quality=100）
+![e](http://www.baidupcs.com/thumbnail/7125f19997b769049e8fb4d8f05c865d?fid=655247319-250528-832732463&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-ya4vUOwjc2fpf2Xo02PcxC9r99M%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
 
 2.4  MVC应用优势
 
