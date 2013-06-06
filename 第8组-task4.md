@@ -96,7 +96,8 @@
 
 3.2 系统用例图
 
-![picture](http://ww2.sinaimg.cn/mw1024/a13a2bc1tw1e56ogiicy2j20ey0g6wfh.jpg "用例图1")
+![picture][1]
+[1]:(http://ww2.sinaimg.cn/mw1024/a13a2bc1tw1e56ogiicy2j20ey0g6wfh.jpg "用例图1")
  
 
 
@@ -176,8 +177,7 @@ Close()关闭对话框
 
 3.4系统类图
 
-![类图2](http://www.baidupcs.com/thumbnail/63b43122ded2ceced1fd004bf046e55d?fid=655247319-250528-2808626060&time=1369924129&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-dnxCMXY8xZudv1JWclca2hQ%2BAtI%3D&expires=8h&size=c850_u580&quality=100 "系统类图")
-
+![类图2](
 类图说明：
 
 1）用户类主要方法：
@@ -223,7 +223,8 @@ change()更改站内内容
 3.5数据库类图
 
 
-![tu](http://www.baidupcs.com/thumbnail/b3f7e74ad82f0077864f51680109bcdf?fid=655247319-250528-1541738037&time=1369924238&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-%2F3bUVsm5QFaJ%2BVJEL%2FDFiamtmoo%3D&expires=8h&size=c850_u580&quality=100 "数据类图")
+![tu][2]
+[2]:(http://www.baidupcs.com/thumbnail/b3f7e74ad82f0077864f51680109bcdf?fid=655247319-250528-1541738037&time=1369924238&rt=pr&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-%2F3bUVsm5QFaJ%2BVJEL%2FDFiamtmoo%3D&expires=8h&size=c850_u580&quality=100 "数据类图")
 
 数据库用来存储网站上的信息，主要方法包括：
 
