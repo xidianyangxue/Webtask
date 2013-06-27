@@ -247,13 +247,13 @@ BT下载功能
 
 1）学生用户活动图
 
-![6-15](http://www.baidupcs.com/thumbnail/800cd6bf9a78ed2f06d071ab465a13b6?fid=655247319-250528-434623384&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-0%2BU9fPMq7nlUzBGavk2yDjBMm5w%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-15](http://ww4.sinaimg.cn/bmiddle/a13a2bc1tw1e630powx6lj20i10fgjsk.jpg)
 
 主要展示了用户登录个人主页进行好友操作，修改个人信息或发布新鲜事的活动。
 
 2）管理员活动图
 
-![6-16](http://www.baidupcs.com/thumbnail/00108fbce197187536e0e8813fbe455d?fid=655247319-250528-897102547&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-iG6U227HBccYqRE%2F97w3TptPzMg%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-16](http://ww4.sinaimg.cn/bmiddle/a13a2bc1tw1e630rf5lkgj20bh09taab.jpg)
 
 
 
