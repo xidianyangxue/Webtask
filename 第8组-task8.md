@@ -94,8 +94,7 @@
 
 用户注册登录测试用例与结果
 
-![tu](http://www.baidupcs.com/thumbnail/8ef1d48c6cb5972dcbb1e9507bcadf07?fid=655247319-250528-211998828&time=1371991989&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-pS6eNdOJoAgJH9B1Ee3NHbzPitU%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![tu](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e630pol1dsj20gf0d5q5b.jpg)
 
 **7项目的总结**
 
