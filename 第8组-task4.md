@@ -176,7 +176,7 @@ Close()关闭对话框
 
 3.4系统类图
 
-![类图2](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309d8jghj20cu0f0mya.jpg）
+![类图2](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309d8jghj20cu0f0mya.jpg)
 
 类图说明：
 
@@ -223,7 +223,7 @@ change()更改站内内容
 3.5数据库类图
 
 
-![tu](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dez4ej208e05daa2.jpg）
+![tu](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dez4ej208e05daa2.jpg)
 数据库用来存储网站上的信息，主要方法包括：
 
 addData()添加数据
@@ -241,46 +241,46 @@ insertData()插入数据
 
 1.用户发布新鲜事
 
-![a](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dn6j3j20in0eaq3l.jpg）
+![a](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dn6j3j20in0eaq3l.jpg)
 
 由此可知，用户登录之后发布新鲜事过程，可以确认发布或者取消发布，最后数据存放于数据库中。
 
 2.用户好友操作
 
-![f](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dujyvj20jh0dpaaq.jpg）
+![f](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dujyvj20jh0dpaaq.jpg)
 
 用户进入好友管理页面后，可以进行添加、删除、查找和取出好友信息的操作。
 
 3.用户上传资源
 
-![d](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309e2prfj20hm0c8jrx.jpg）
+![d](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309e2prfj20hm0c8jrx.jpg)
 
 用户进入上传资源页面，可以选择上传资源，或取消，最终更改的数据保存在数据库内。
 
 
 4.用户下载资源
 
-![b](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309eoeq1j20ew08yt95.jpg
+![b](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309eoeq1j20ew08yt95.jpg)
 
 用户进入下载资源界面后，可以从展示的资源列表中，选择下载资源。
 
 5.用户更改个人信息
 
 
-![a](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ev6xdj20c406ft8u.jpg）
+![a](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ev6xdj20c406ft8u.jpg)
 
 用户更改个人信息，最终结果存放在数据库内
 
 
 6.管理员管理资源
 
-![e](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309e2prfj20hm0c8jrx.jpg）
+![e](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309e2prfj20hm0c8jrx.jpg)
 管理员可以删除、上床或更改资源类，修改结果存放在数据库内。
 
 
 7.管理员设置权限
 
-![c](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ei4crj20e70a9glw.jpg）
+![c](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ei4crj20e70a9glw.jpg)
 
 管理员设置管理员权限，更改用户信息或者管理员信息。
 
