@@ -176,7 +176,8 @@ Close()关闭对话框
 
 3.4系统类图
 
-![类图2](http://www.baidupcs.com/thumbnail/63b43122ded2ceced1fd004bf046e55d?fid=655247319-250528-2808626060&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-siFxRYsvgwlfWyDCUnCUGEe3IwQ%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![类图2](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309d8jghj20cu0f0mya.jpg）
+
 类图说明：
 
 1）用户类主要方法：
@@ -222,8 +223,7 @@ change()更改站内内容
 3.5数据库类图
 
 
-![tu](http://www.baidupcs.com/thumbnail/b3f7e74ad82f0077864f51680109bcdf?fid=655247319-250528-1541738037&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-6Js%2FlRyx2ETreNyiT75Z8siZxCw%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![tu](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dez4ej208e05daa2.jpg）
 数据库用来存储网站上的信息，主要方法包括：
 
 addData()添加数据
@@ -241,47 +241,46 @@ insertData()插入数据
 
 1.用户发布新鲜事
 
-![a](http://www.baidupcs.com/thumbnail/5c9a73be1c211976af015be8b573dff8?fid=655247319-250528-2713466254&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-ZNQezB7uWCC1eKGlDXA8z9KiF6w%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![a](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dn6j3j20in0eaq3l.jpg）
 
 由此可知，用户登录之后发布新鲜事过程，可以确认发布或者取消发布，最后数据存放于数据库中。
 
 2.用户好友操作
 
-![f](http://www.baidupcs.com/thumbnail/6ae365cc531ec3b5db606cde585db712?fid=655247319-250528-2531306739&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-Eqhpt2Yw%2BUDY4vPG0VQYEJUn15o%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![f](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dujyvj20jh0dpaaq.jpg）
 
 用户进入好友管理页面后，可以进行添加、删除、查找和取出好友信息的操作。
 
 3.用户上传资源
 
-![d](http://www.baidupcs.com/thumbnail/c39ae30d0ebd24a6599ecca1a6771b0a?fid=655247319-250528-808256973&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-r8bcZL2nNuMUO8oj0MV%2BYFnmWvQ%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![d](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309e2prfj20hm0c8jrx.jpg）
 
 用户进入上传资源页面，可以选择上传资源，或取消，最终更改的数据保存在数据库内。
 
 
 4.用户下载资源
 
-![b](http://www.baidupcs.com/thumbnail/1840ecf3396e6ff0e0109eb6d6fd2208?fid=655247319-250528-3695943629&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-qYfyuxngx8B827E2pYihChUeRiA%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![b](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309eoeq1j20ew08yt95.jpg
 
 用户进入下载资源界面后，可以从展示的资源列表中，选择下载资源。
 
 5.用户更改个人信息
 
 
-![a](http://www.baidupcs.com/thumbnail/9ad21980cb4a4e0231c1e15ee7d8768c?fid=655247319-250528-4056378360&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-zsKVhlKQoSdOca0mglJI5Bd5mvg%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![a](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ev6xdj20c406ft8u.jpg）
 
 用户更改个人信息，最终结果存放在数据库内
 
 
 6.管理员管理资源
 
-![e](http://www.baidupcs.com/thumbnail/226b7dd261198563ff2f2ad7c7582914?fid=655247319-250528-2679450106&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-uzKeWcA8eqkDfeWTZmiUTr6AVlk%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![e](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309e2prfj20hm0c8jrx.jpg）
 管理员可以删除、上床或更改资源类，修改结果存放在数据库内。
 
 
 7.管理员设置权限
 
-![c](http://www.baidupcs.com/thumbnail/48719d44db288092dcdcf0a1ffd08b0d?fid=655247319-250528-2555583149&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-z%2BWC0WgHYtuicaNdEI2IrhVharg%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![c](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ei4crj20e70a9glw.jpg）
 
 管理员设置管理员权限，更改用户信息或者管理员信息。
 
