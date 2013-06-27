@@ -19,7 +19,7 @@ Web应用架构反应了定义模块或组件以及它们之间的交互。它�
 
 MVC是Model-View-Controller（模型－视图－控制器）的缩写，它把一个应用的处理流程分成模型层、视图层和控制层，控制器（Controler）控制器接受用户的输入并调用模型和视图去完成用户的需求 。视图（View）用户看到并与之交互的界面 模型（Model）企业数据和业务规则，如图1所示。
  
- ![b](http://www.baidupcs.com/thumbnail/1a1c3ba6107405b8de72a9be16d52a7f?fid=655247319-250528-2066827459&time=1370510054&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-1ykemrQxEeJAwU56OdfaFOUldsU%3D&rt=sh&expires=8h&size=c850_u580&quality=100 "图1 MVC模式三层结构图")
+ ![b](http://ww4.sinaimg.cn/bmiddle/a13a2bc1tw1e63085pjjej20gn08st9f.jpg)
  
 模型层(也称业务层)用于处理程序逻辑。它的任务是管理应用程序域的行为和数据，响应来自控制层的状态指令，把原有数据按照业务逻辑转换成指定意义的数据提供给视图层显示。
 
@@ -35,15 +35,12 @@ MVC的目的是增加代码的重用率，减少数据表达、数据描述和�
 
 MVC总体设计图如图2所示：
   
- ![a](http://www.baidupcs.com/thumbnail/5414ba75cf05ce771ea3011296b216fd?fid=655247319-250528-2103055947&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-55NYLLgBl%2B8LJrEOLSFTUkJqExQ%3D&rt=sh&expires=8h&size=c850_u580&quality=100 "图2")
- 
-  
+ ![a](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e63085y1f5j208b0cvwf9.jpg)
 
 
 高校交友平台基本架构图如图3所示：
 
- ![c](http://www.baidupcs.com/thumbnail/5eb907324440abd6641796531bc8930b?fid=655247319-250528-700198898&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-XYRIUu9BVGed%2BzQWstFxwe14QnY%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-             
+ ![c](http://ww4.sinaimg.cn/bmiddle/a13a2bc1tw1e6308649b4j208l0ecjrl.jpg)    
 
 平台界面：用于显示界面信息，是用户与系统的交互，用户可以通过该界面在线聊天，发布信息，上传、下载资源。相当于MVC中的view。
 
@@ -55,11 +52,11 @@ MVC总体设计图如图2所示：
 
 在系统中，浏览器中呈现的是系统的视图部分，而模型和控制器则是透明的。当Web 服务器接收到客户提交的HTTP请求后，交给服务器中的控制器来处理。控制器按照请求中的信息，从系统配置中提取此信息的映射表，并把此请求映射到相应的处理模型；处理模型进行业务逻辑处理，处理完后返回状态更新的请求并将数据结果给控制器；控制器根据结果选择相应视图模板并合成视图返回给用户。程序架构如图4所示。
 
-![d](http://www.baidupcs.com/thumbnail/ba616d3afcf0e35c25b04a1bf8957935?fid=655247319-250528-239509177&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-NXEb38oUg8kEgd%2BMoNMlVpkgs6s%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![d](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e630869axwj20f60970t4.jpg)
 
 通过以上架构，我们对高校交友平台应用架构有了一定了解。接下来对框架进行进一步抽象，以数据为中心的架构出来，抽象化应用，关注与底层数据的管理。
 
-![e](http://www.baidupcs.com/thumbnail/7125f19997b769049e8fb4d8f05c865d?fid=655247319-250528-832732463&time=1370511256&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-ya4vUOwjc2fpf2Xo02PcxC9r99M%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![e](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e63086ek9zj206t09h747.jpg)
 
 2.4  MVC应用优势
 
