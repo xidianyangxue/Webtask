@@ -281,7 +281,6 @@ insertData()插入数据
 7.管理员设置权限
 
 ![c](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ei4crj20e70a9glw.jpg)
-
 管理员设置管理员权限，更改用户信息或者管理员信息。
 
 3.7系统活动图
