@@ -80,16 +80,15 @@
 **2.展示设计**
 
 
-![6-1](http://www.baidupcs.com/thumbnail/d63f4b7d68607d413ee93e52c7fa9a15?fid=655247319-250528-2180606518&time=1370511760&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-ErcTFIqBAVJSA6c4HIq6vhJ4fpc%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
- 
+![6-1](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6306wv2mej20fi0a6dg8.jpg)
 
 （1）登录界面：进入高校交友平台后，需要登录，可以设置自动登录。如果没有账号的话可以选择注册，如果忘记密码可以选择找回密码。网站Logo为一个拉手的小人，表示同学们通过此平台得到了联系，也能认识新朋友。
  
-![6-2](http://www.baidupcs.com/thumbnail/6058b15c98530d0923ffa90e0bfe62e5?fid=655247319-250528-2263373215&time=1370511760&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-Y1GxdLeEqgQ4cHvn%2F6ff4HudHW8%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-2](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6306x94qgj20fj0c0mxn.jpg)
 
 （2）注册界面：注册时需要填写学校、用户、Email等基本信息，设置密码需要确认，确认后可以注册。
 
-![6-3](http://www.baidupcs.com/thumbnail/8198ca9f322479e6ebaf7fe652ffaa15?fid=655247319-250528-2170396438&time=1370511760&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-dLadKd0JKBqEUud1EABBZB9oYe8%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-3](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6306xiki0j20f804twep.jpg)
 
 （3）主界面：登录后进入主界面。
 
@@ -102,19 +101,20 @@
 右侧主要显示最近来访以及好友推荐。
 
 
-![6-4](http://www.baidupcs.com/thumbnail/5de807eecdea1883dfeecab8592e9743?fid=655247319-250528-2549326049&time=1370511760&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-WEzX%2BADfkcMr17xDOJLe8y2cyCM%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![6-4](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6306xpcrej20em06t0st.jpg)
 
 （4）好友管理页面：右侧显示可以选择全部好友，搜索好友，设置特别好友，额可以创建好友分组，为不同的好友修改分组。
 
-![6-5](http://www.baidupcs.com/thumbnail/a5dcbb4198f13e0e883ff415a3cb4615?fid=655247319-250528-3303381266&time=1370511760&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-2lbk6HDV5ao03H4eNOXg7%2FdZOA4%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
- 
+![6-5](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6306xpcrej20em06t0st.jpg)
+
 （5）修改个人信息页面：可以编辑自己的资料，包括联系方式、学校信息和基本信息。
 
-![6-6](http://www.baidupcs.com/thumbnail/d7193e3706a8c174bd80c9c24e884da7?fid=655247319-250528-4197027953&time=1370511760&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-7tHlIs7I8LcwH0dwrvvy1rjDikM%3D&rt=sh&expires=8h&size=c850_u580&quality=100) 
- 
+![6-6](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6306xu3ukj20nr0cu3z4.jpg)
+
  
 （6）种子列表界面：可以选择想要下载的资源名称，也可以通过我上传的种子来上传资源。
+
+![6-7](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6306y3jjzj20ns05qwf5.jpg)
 
 整个高校交友平台具有较高的信息性娱乐性，采用统一的浅蓝色背景，导航栏采用深蓝色。
 
@@ -122,8 +122,7 @@
 **3.内容设计**
 
 
-![6-7](http://www.baidupcs.com/thumbnail/14a505d4d4347fcab0426c46d4335b13?fid=655247319-250528-2050018562&time=1370511760&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-FMSilOGdqL3hhRcoWweKWwh7fvg%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![6-8](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6306y8zt3j20ji0d5ab3.jpg)
 该网站的主要内容以及其层次关系如图所示。
 
 
@@ -207,43 +206,40 @@ BT下载功能
 
 1.用户发布新鲜事
 
-![6-8](http://www.baidupcs.com/thumbnail/5c9a73be1c211976af015be8b573dff8?fid=655247319-250528-2713466254&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-9IXb%2BFJB7y1nfRaTeHNXc09jusA%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![6-8](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dn6j3j20in0eaq3l.jpg)
 由此可知，用户登录之后发布新鲜事过程，可以确认发布或者取消发布，最后数据存放于数据库中。
 
 2.用户好友操作
 
-![6-9](http://www.baidupcs.com/thumbnail/6ae365cc531ec3b5db606cde585db712?fid=655247319-250528-2531306739&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-MNkaMl%2Bt9wfVkIHgYyUlaBzXkWA%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-9](http://ww2.sinaimg.cn/bmiddle/a13a2bc1tw1e6309dujyvj20jh0dpaaq.jpg)
 
 用户进入好友管理页面后，可以进行添加、删除、查找和取出好友信息的操作。
 
 3.用户上传资源
 
-![6-10](http://www.baidupcs.com/thumbnail/c39ae30d0ebd24a6599ecca1a6771b0a?fid=655247319-250528-808256973&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-ape9z0Odch03lAYsti8X8WoQSBI%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-10](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6309easg5j20k80bzq3f.jpg)
 
 用户进入上传资源页面，可以选择上传资源，或取消，最终更改的数据保存在数据库内。
 
 4.用户下载资源
 
-![6-11](http://www.baidupcs.com/thumbnail/1840ecf3396e6ff0e0109eb6d6fd2208?fid=655247319-250528-3695943629&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-DsYEcqYltgDmPM%2FgpdoTybhfF%2B8%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![6-11](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309eoeq1j20ew08yt95.jpg)
 用户进入下载资源界面后，可以从展示的资源列表中，选择下载资源。
 
 5.用户更改个人信息
 
-![6-12](http://www.baidupcs.com/thumbnail/9ad21980cb4a4e0231c1e15ee7d8768c?fid=655247319-250528-4056378360&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-QQdNNz9FQUWgMej5INEcGV8gWFQ%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-12](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ev6xdj20c406ft8u.jpg)
 
 用户更改个人信息，最终结果存放在数据库内
 
 6.管理员管理资源
 
-![6-13](http://www.baidupcs.com/thumbnail/226b7dd261198563ff2f2ad7c7582914?fid=655247319-250528-2679450106&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-4hLIbPEXj7PSZQeYtDM4tOOSHqw%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
-
+![6-13](http://ww1.sinaimg.cn/bmiddle/a13a2bc1tw1e6309e2prfj20hm0c8jrx.jpg)
 管理员可以删除、上床或更改资源类，修改结果存放在数据库内。
 
 7.管理员设置权限
 
-![6-14](http://www.baidupcs.com/thumbnail/48719d44db288092dcdcf0a1ffd08b0d?fid=655247319-250528-2555583149&time=1370514216&sign=FDTAR-DCb740ccc5511e5e8fedcff06b081203-zAX%2BTeaxCaeZ%2BJYaFrJFNvxaFcw%3D&rt=sh&expires=8h&size=c850_u580&quality=100)
+![6-14](http://ww3.sinaimg.cn/bmiddle/a13a2bc1tw1e6309ei4crj20e70a9glw.jpg)
 
 管理员设置管理员权限，更改用户信息或者管理员信息。
 
